@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ionic 2 Conference Application
 
 This is purely a demo of Ionic 2 with TypeScript. It is still in development.
@@ -189,3 +190,6 @@ ionic-conference-app/
 ├── tslint.json                        * Defines the rules for the TypeScript linter
 └── typings.json                       * Defines the external type definitions
 ```
+=======
+# hybridGPS
+>>>>>>> de20b15099015eb25c21129a7802fabcf039c57e
